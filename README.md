@@ -1,4 +1,4 @@
-# This is a fun project I've done to refresh my React basics and learn some of Material UI skills.
+# This is a fun project I've done to refresh my React basics and learn Material UI Basics.
 https://mr-media-ecru.vercel.app/
 
 # Getting Started with Create React App
