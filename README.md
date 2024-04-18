@@ -1,3 +1,6 @@
+# This is a fun project I've done to refresh my React basics and learn some of Material UI skills.
+https://mr-media-ecru.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
